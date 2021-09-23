@@ -17,7 +17,7 @@
   
 </div>
 <div align="center">
-  I'm a Computer Engeering Graduate  🎓  from <a href="https://ddu.ac.in/">Dharamsinh Desai University</a> 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+  I'm a Computer Engineering Graduate  🎓  from <a href="https://ddu.ac.in/">Dharamsinh Desai University</a> 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
   </div>
   
   <br>
